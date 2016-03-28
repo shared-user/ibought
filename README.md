@@ -1,11 +1,8 @@
 #ibought
 
 ##possible framkeworks
-### php
-- Laravel 'https://laravel.com/'
-- Symfony 'https://symfony.com/'
-### python
-- Django 'https://www.djangoproject.com/'
-- Flask  'http://flask.pocoo.org/'
-### ruby
-- Rails 'http://rubyonrails.org/'
+- PHP 'https://laravel.com/'
+- PHP 'https://symfony.com/'
+- Python 'https://www.djangoproject.com/'
+- Python 'http://flask.pocoo.org/'
+- Ruby 'http://rubyonrails.org/'
